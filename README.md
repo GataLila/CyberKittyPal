@@ -1,2 +1,2 @@
 # CyberKittyPal
-Discord Bot that allows you to get information about your friends and you games
+discord bot that allows you to get game data from you and your friends.
